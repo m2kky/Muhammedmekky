@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Web",
+    "projects": [
+      {
+        "title": "Mo7a Art | Portfolio",
+        "description": "Web design portfolio for amateur painter Mohammed Moustafa Abdeldaiem, creating a beautifully curated site that embodies the artist's identity.",
+        "image": "/Projects/590762_474259.webp",
+        "technologies": ["Vibe Coding", "GoDaddy", "Canva", "Figma"],
+        "liveUrl": "https://artmo7.godaddysites.com/",
+        "githubUrl": ""
+      },
+      {
+        "title": "Astra | Online Store",
+        "description": "Conceptual online store on Shopify for selling gamer accessories in Saudi Arabia.",
+        "image": "/Projects/898655_483149.webp",
+        "technologies": ["Shopify", "Canva"],
+        "liveUrl": "https://matrix-headphone.myshopify.com/password",
+        "githubUrl": ""
+      },
+      {
+        "title": "Chef-Ahmed | Portfolio",
+        "description": "Portfolio emphasising Chef Ahmed’s experience, workplaces, and dish images, capturing culinary expertise.",
+        "image": "/Projects/653545_692179.webp",
+        "technologies": ["GoDaddy", "Canva", "Figma"],
+        "liveUrl": "https://chef-ahmedtarek.godaddysites.com/",
+        "githubUrl": ""
+      },
+      {
+        "title": "Forbed | E-Commerce",
+        "description": "Improved Shopify store redesign for Forbed company focusing on UX and SEO, achieving second ranking in niche.",
+        "image": "/Projects/551663_185502.webp",
+        "technologies": ["Shopify", "Canva", "Photoshop", "CSS"],
+        "liveUrl": "https://forbedagent.com/?srsltid=AfmBOorx6q4oALUmlVEs2tUCYJknpacVfzHqGijzPet_INrlpA6ARjIZ",
+        "githubUrl": ""
+      }
+    ]
+  },
+  {
+    "name": "Marketing & Content Strategy",
+    "projects": [
+      {
+        "title": "Philogamia | Content Strategy",
+        "description": "Developed dynamic content strategy leveraging real-time gaming events and community engagement to maximize brand presence.",
+          "image": "/Projects/386379_279232.webp",
+        "technologies": ["Social Media Management", "Content Creation", "Video Production", "Analytics Tools"],
+        "liveUrl": "",
+        "githubUrl": ""
+      },
+      {
+        "title": "Center EL-Tekya | Content Plan, Filming & Ads",
+        "description": "Crafted content strategy and targeted ads growing 14k followers in 3 months, boosting engagement and sales.",
+        "image": "/Projects/795302_697480.webp",
+        "technologies": ["Social Media Advertising", "Content Strategy", "Video Production", "Audience Engagement"],
+        "liveUrl": "",
+        "githubUrl": ""
+      }
+    ]
+  },
+  {
+    "name": "AI & Automation",
+    "projects": [
+      {
+        "title": "Qudraat Powered Chatbot",
+        "description": "Static chatbot for Qudraat community assisting educational queries and automating tasks.",
+        "image": "/Projects/Untitled%20design%20(1).png",
+        "technologies": ["OpenAI GPT", "Botshadow", "Python", "API Integration"],
+        "tryUrl": "https://m.me/61571035216683",
+        "liveUrl": "",        "githubUrl": ""
+      },
+      {
+        "title": "Smart Workshop Scheduling System",
+        "description": "Automated scheduling and notification system for workshops integrating registrations and personalized reminders.",
+        "image": "/Projects/Untitled%20design%20(2).png",
+        "technologies": ["Make.com", "Google Sheets API", "Email Automation"],
+        "liveUrl": "",
+        "githubUrl": ""
+      }
+    ]
+  },
+  {
+    "name": "Education & Training",
+    "projects": [
+      {
+        "title": "Automate Your Life Workshop",
+        "description": "Workshop introducing youth to no-code automation tools like Make.com to automate daily tasks.",
+        "image": "/Projects/the%20power%20of%20prompts%20(1).png",
+        "technologies": ["Make.com", "No-Code Automation", "Workflow Design"],
+        "liveUrl": "https://drive.google.com/file/d/1SWrZsQLnVmMJAMziddPzlNlTBXXLIAsw/view?usp=sharing",
+        "resourcesUrl": "https://drive.google.com/drive/folders/1x_A3YIIvrgJfCLMc3ex1tW1vVUB5uYua?usp=drive_link",
+        "presentationUrl": "https://v0-interactive-presentation-design.vercel.app/",
+        "githubUrl": ""
+      },
+      {
+        "title": "Introduction to Notion",
+        "description": "Practical workshop covering basics of notion",
+        "image": "/Projects/the%20power%20of%20prompts%20(2).png",
+        "technologies": ["Notion", "ChatGPT", "Prompt Engineering"],
+        "liveUrl": "https://drive.google.com/file/d/1o1dFPpcKdOFfTvwXtkmBLINrgch0fBl2/view?usp=sharing",
+        "githubUrl": ""
+      },
+      {
+        "title": "Buil Your Brand Using ChatGPT",
+        "description": "Hands-on training on advanced using chatgpt",
+        "image": "/Projects/the%20power%20of%20prompts%20(3).png",
+        "technologies": ["ChatGPT", "AI Text Generation"],
+        "liveUrl": "https://drive.google.com/file/d/1oPENQooS8S4hUWJL8F_Ehc9W1yxi6Gyh/view?usp=sharing",
+        "githubUrl": "https://drive.google.com/file/d/1oPENQooS8S4hUWJL8F_Ehc9W1yxi6Gyh/view?usp=sharing"
+      },
+      {
+        "title": "The Power of prompts",
+        "subtitle": "prompt to profit",
+        "description": "",
+        "image": "/Projects/the%20power%20of%20prompts.png",
+        "technologies": ["ChatGPT", "Prompt Frameworks", "Gen AI"],
+        "liveUrl": "https://drive.google.com/file/d/1uh5T8nWn0cXjheG1q7AayGoiyStdxSjx/view?usp=sharing",
+        "githubUrl": ""
+      }
+    ]
+  },
+  {
+    "name": "Project & Event Management",
+    "projects": [
+      {
+        "title": "Qudraat Youth Community Launch",
+        "description": "Launched and managed 'Qudraat Youth' community, overseeing engagement strategies and growth initiatives.",
+        "image": "/Projects/Untitled%20design%20(6).png",
+        "technologies": ["Community Management Tools", "Social Media Platforms", "Event Planning Software"],
+        "liveUrl": "",
+        "githubUrl": ""
+      },
+      {
+        "title": "Qudraat Seasonal Campaigns",
+        "description": "Organized seasonal campaigns and challenges integrating multi-channel marketing to maximize participation.",
+        "image": "/Projects/Untitled%20design%20(7).png",
+        "technologies": ["Campaign Management", "Social Media Marketing", "Analytics Tools"],
+        "liveUrl": "",
+        "githubUrl": ""
+      }
+    ]
+  }
+]
